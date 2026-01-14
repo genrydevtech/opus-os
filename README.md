@@ -602,6 +602,11 @@ the License.
 
 [![Community](https://img.shields.io/badge/Community_X-@opus__os-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/i/communities/2011469271990223194)
 
+**Contract Address:**
+```
+CA 76fYctqCKJ1vH2CYbXwG9pxAcMZi1shMn2V6un6gpump
+```
+
 </div>
 
 ---
