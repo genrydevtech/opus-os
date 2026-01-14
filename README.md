@@ -600,7 +600,7 @@ the License.
 
 [![Twitter](https://img.shields.io/badge/Official_Twitter-@opus__os-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/opus_os)
 
-[![Community](https://img.shields.io/badge/Community_X-@opus__os-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/opus_os)
+[![Community](https://img.shields.io/badge/Community_X-@opus__os-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/i/communities/2011469271990223194)
 
 </div>
 
