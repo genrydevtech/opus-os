@@ -2,15 +2,7 @@
 
 <div align="center">
 
-```
-  ___   ____  _   _  ____  
- / _ \ |  _ \| | | |/ ___| 
-| | | || |_) | | | |\___ \ 
-| |_| ||  __/| |_| | ___) |
- \___/ |_|    \___/ |____/ 
-     ____  ____            
-    / __ \/ __ \           
-```
+![OpuS OS Banner](.github/assets/banner.png)
 
 **An AI-native Android fork where Claude Opus operates at the system level**
 
