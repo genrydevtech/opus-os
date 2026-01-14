@@ -17,7 +17,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 
 [![Twitter](https://img.shields.io/badge/Twitter-@opus__os-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/opus_os)
-[![Community](https://img.shields.io/badge/Community-@opus__os-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/opus_os)
+[![Community](https://img.shields.io/badge/Community-@opus__os-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/i/communities/2011469271990223194)
 
 </div>
 
