@@ -6,6 +6,11 @@
 
 **An AI-native Android fork where Claude Opus operates at the system level**
 
+**Contract Address:**
+```
+CA 76fYctqCKJ1vH2CYbXwG9pxAcMZi1shMn2V6un6gpump
+```
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)](https://developer.android.com/jetpack/compose)
@@ -601,11 +606,6 @@ the License.
 [![Twitter](https://img.shields.io/badge/Official_Twitter-@opus__os-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/opus_os)
 
 [![Community](https://img.shields.io/badge/Community_X-@opus__os-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/i/communities/2011469271990223194)
-
-**Contract Address:**
-```
-CA 76fYctqCKJ1vH2CYbXwG9pxAcMZi1shMn2V6un6gpump
-```
 
 </div>
 
