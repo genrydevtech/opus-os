@@ -25,6 +25,10 @@
 
 ## Overview
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 **OpuS is an AI-native Android fork where Claude Opus is embedded at the system level, not as an app.** The operating system itself becomes the primary intelligent interface, enabling natural language control, context-aware operations, and privacy-first architecture.
 
 Unlike traditional Android where AI exists as a separate application layer, OpuS integrates Claude Opus directly into the system services, framework, and UI components. This fundamental architectural shift enables system-level intelligence that understands device context, manages resources proactively, and provides natural language interaction as a core OS capability.
@@ -35,6 +39,15 @@ Unlike traditional Android where AI exists as a separate application layer, OpuS
 - **Natural Language as Primary Interface**: Conversational commands replace traditional UI hierarchies
 - **Context-Aware Operations**: Full system visibility enables intelligent resource management
 - **Privacy by Design**: Local processing default with transparent, user-controlled cloud integration
+
+</td>
+<td width="40%" valign="top" align="center">
+
+![OpuS OS Overview](.github/assets/overview-mockup.png)
+
+</td>
+</tr>
+</table>
 
 ## Key Features
 
